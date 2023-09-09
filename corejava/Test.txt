@@ -1,0 +1,1 @@
+java skills are much needed to develop any applications or any real world aspects also ,we write everything in main method we create object inside the main method
